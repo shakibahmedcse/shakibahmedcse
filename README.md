@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm **Programmer Shuvo**
 #### Web & WordPress Developer
+![Profile views](https://gpvc.arturio.dev/shakibahmedcse)<br>
 ![Web & WordPress Developer](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/p480x480/272966774_145360437910369_8676877163466638350_n.png?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeH67QYjpDUMLJy6SQasot9W7RUX5HULXT3tFRfkdQtdPf2qhy4qJH0PwvWhATsOrFcJOmw3qqfhJsmf0V_-Csv8&_nc_ohc=CZGuU8LtMrAAX9RdYf3&_nc_ht=scontent.fdac149-1.fna&oh=00_AT9lFK_rxPVqQQrwee5T1x2CACyaqDe5VzIcDjHrXE_Igg&oe=61FAA6AE)
 
 I’m a website designer that specializes inclusive web design and building those websites in WordPress. Over the past 3 Yrs I've worked with many academies, web agencies and entrepreneurs. Designed WordPress Website, E-commerce website and Client Facing Web Sites. 
 Especially I always feel that clients' work is my work.<br>
-![Profile views](https://gpvc.arturio.dev/shakibahmedcse)<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibahmedcse&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on YouTube 
